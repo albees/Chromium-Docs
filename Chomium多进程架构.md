@@ -20,7 +20,7 @@
 
 我们将主进程作为“浏览器进程(browser process)” 或者 “浏览器(browser)”，运行UI，管理选项卡和插件进程。同样的，特定于选项卡的进程成为“渲染进程(render process)”或者“渲染器(renderers)”。渲染器使用Blink开源布局引擎来解释和布局HTML。
 
-![arch](C:\docs\chrome专栏\photo\arch.png)
+![arch](photo\arch.png)
 
 
 
